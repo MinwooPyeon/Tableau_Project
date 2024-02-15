@@ -1,5 +1,6 @@
 ## BDA 태블로 신병훈련소
-![main](https://github.com/MinwooPyeon/Tableau_Project/assets/153968515/8f757432-a9f3-4cca-8b6d-5cd7d41b43b3)
+![2](https://github.com/MinwooPyeon/Tableau_Project/assets/153968515/9bb05932-8ab4-4c53-b857-06957b505e34)
+
 
 
 
@@ -20,4 +21,4 @@
 
 
 ### 수료증
-![수료](https://github.com/MinwooPyeon/Tableau_Project/assets/153968515/543a9f56-b5dc-4e56-aba8-99865d246795)
+![1](https://github.com/MinwooPyeon/Tableau_Project/assets/153968515/9fb466f7-87b8-4b43-8f23-9373d3412e39)
